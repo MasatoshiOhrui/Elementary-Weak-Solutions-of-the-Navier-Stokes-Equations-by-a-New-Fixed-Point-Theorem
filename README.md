@@ -11,7 +11,7 @@ We solve
 ∂ₜ u －△u ＝Pf －P(uₙ・▽)uₙ,
 ∂ₜ u －△u ＝Pf －P(u・▽)u
 
-in X＝∩_(m≥5, p＝1, 2)W^(m, p)(Ω) (as a set). We construct u＝Φ[u]∈S, where S is a closed subset of X.
+in X＝∩_(m≥5, p＝1, 2)W^(m, p)(Ω) (as a set). We construct u＝Φ[u]∈S, where S is a closed subset of X. By new fixed point theorem, existence of solutions holds even if Φ[S]⊂S does not hold.
 
 Our solutions are weak solution:
 〈∂ₜ u －△u, φ〉 ＝〈f －▽p－(u・▽)u, φ〉
