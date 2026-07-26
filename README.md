@@ -1,4 +1,5 @@
 https://github.com/MasatoshiOhrui/Elementary-Weak-Solutions-of-the-Navier-Stokes-Equations-by-a-New-Fixed-Point-Theorem/blob/main/Elementary%20PDE%20Theory%20%E2%85%A1.pdf
+
 This is an application of functional analysis to the existence and smoothness of the Navier–Stokes equations using elementary weak solutions in Sobolev spaces. 
 
 We solve the problem in mathematics. The problems are not in physics, so we do not use any physics or assumptions-falsified mathematics, such as other papers. We use mathematics only. We can solve the problem by using an exactly and completely FALSIFIED resolution, where large initial values destroy the earth, because uniqueness does NOT hold, or SMALL initial values love your cup of coffee. There are no long or complicated culculations, or no theory of evolution equations.
