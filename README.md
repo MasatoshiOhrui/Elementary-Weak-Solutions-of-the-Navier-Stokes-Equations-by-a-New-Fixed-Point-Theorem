@@ -1,4 +1,4 @@
-https://github.com/MasatoshiOhrui/Elementary-Weak-Solutions-of-the-Navier-Stokes-Equations-by-a-New-Fixed-Point-Theorem/blob/main/Elementary%20PDE%20Theory%20%E2%85%A1.pdf
+https://github.com/user-attachments/files/30390023/Elementary.PDE.Theory.pdf
 
 This is an application of functional analysis to the existence and smoothness of the Navier–Stokes equations using elementary weak solutions in Sobolev spaces. 
 
