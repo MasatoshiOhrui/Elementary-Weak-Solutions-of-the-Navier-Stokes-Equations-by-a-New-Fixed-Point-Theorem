@@ -1,4 +1,4 @@
-https://objects.githubusercontent.com/github-production-repository-file-5c1aeb/1308224556/30520467?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260729%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260729T200255Z&X-Amz-Expires=300&X-Amz-Signature=3f7b45a17085133dcfd9a2e22044f529f5e0bef5284c07df3c12fcaa84fefb1e&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3Bfilename%3DElementary.PDE.Theory.pdf&response-content-type=application%2Fpdf
+https://github.com/user-attachments/files/30520467/Elementary.PDE.Theory.pdf
 
 This is an application of functional analysis to the existence and smoothness of the Navier–Stokes equations using elementary weak solutions in Sobolev spaces. 
 
