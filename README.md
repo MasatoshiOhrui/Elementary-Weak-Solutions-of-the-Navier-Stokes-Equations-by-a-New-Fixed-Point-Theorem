@@ -24,4 +24,4 @@ Uniqueness follows without boundary conditions. Smoothness, the energy inequalit
 
 Our Elementary PDE Theory also can be applied to non-linear heat equation, non-linear Laplase equation, non-linear wave equation, non-linear Schrödinger equation, compressible Navier-Stokes equations and complex Momge-Ampére eqation.
 
-This manuscript has been read by Naofumi Mori (@n_mori00), Associate Professor of Mathematical Sciences.
+This manuscript has been read by Naofumi Mori (@n_mori00), Associate Professor of Mathematical Sciences, and a thesis of Open University of Japan.
