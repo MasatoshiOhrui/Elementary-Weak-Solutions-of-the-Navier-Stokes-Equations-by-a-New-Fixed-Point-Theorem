@@ -20,7 +20,7 @@ for any φ∈D(Ω).
 Uniqueness follows without boundary conditions. Smoothness, the energy inequality also follow. The motions of fluids occurs by an external force
 and motions by fluids itselves, so our solutions are physically suitable.
 
-Our Elementary PDE Theory also can be applied to non-linear heat equation, non-linear Laplase equation, non-linear wave equation, non-linear Schrödinger equation, compressible Navier-Stokes equations and complex Momge-Ampére eqation.
+Our Elementary PDE Theory also can be applied to non-linear heat equation, non-linear Laplace equation, non-linear wave equation, non-linear Schrödinger equation, compressible Navier-Stokes equations and complex Momge-Ampére equation.
 
 This manuscript has been read by Naofumi Mori (@n_mori00), Associate Professor of Mathematical Sciences. This is our thesis of Open University of Japan.
 
