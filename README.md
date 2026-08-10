@@ -30,6 +30,8 @@ This manuscript has been read by Naofumi Mori (@n_mori00), Associate Professor o
 
 [2nd Elementary PDE Theory.pdf](https://github.com/user-attachments/files/30501071/2nd.Elementary.PDE.Theory.pdf)
 
+[∂ˉ u |Ω ＝ f |Ω.pdf](https://github.com/user-attachments/files/30904796/u.f.pdf)
+
 [28 Q&A.pdf](https://github.com/user-attachments/files/30886461/28.Q.A.pdf)
 
 [Referee Report.pdf](https://github.com/user-attachments/files/30662353/Referee.Report.pdf)
