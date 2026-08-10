@@ -26,7 +26,7 @@ This manuscript has been read by Naofumi Mori (@n_mori00), Associate Professor o
 
 [Elementary PDE Theory Ⅰ.pdf](https://github.com/user-attachments/files/30855805/Elementary.PDE.Theory.pdf)
 
-[Elementary PDE Theory Ⅱ.pdf](https://github.com/user-attachments/files/30896851/Elementary.PDE.Theory.pdf)
+[Elementary PDE Theory Ⅱ.pdf](https://github.com/user-attachments/files/30897277/Elementary.PDE.Theory.pdf)
 
 [28 Q&A.pdf](https://github.com/user-attachments/files/30886461/28.Q.A.pdf)
 
