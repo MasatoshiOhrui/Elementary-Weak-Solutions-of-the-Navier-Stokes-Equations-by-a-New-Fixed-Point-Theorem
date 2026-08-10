@@ -34,8 +34,4 @@ This manuscript has been read by Naofumi Mori (@n_mori00), Associate Professor o
 
 [28QandA.pdf](https://github.com/user-attachments/files/30906735/28QandA.pdf)
 
-[Referee Report.pdf](https://github.com/user-attachments/files/30662353/Referee.Report.pdf)
-
-[Referee_Report_2.pdf](https://github.com/user-attachments/files/30829598/Referee_Report_2.pdf)
-
-[Referee_Report_3.pdf](https://github.com/user-attachments/files/30905152/Referee_Report_3.pdf)
+[Referee Report 4.pdf](https://github.com/user-attachments/files/30908396/Referee.Report.4.pdf)
