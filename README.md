@@ -33,5 +33,3 @@ This manuscript has been read by Naofumi Mori (@n_mori00), Associate Professor o
 [28QandA.pdf](https://github.com/user-attachments/files/30906735/28QandA.pdf)
 
 [Referee Report 4.pdf](https://github.com/user-attachments/files/30908396/Referee.Report.4.pdf)
-
-[∂ˉ u |Ω ＝ f |Ω.pdf](https://github.com/user-attachments/files/30925401/u.f.pdf)
