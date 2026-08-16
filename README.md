@@ -26,7 +26,13 @@ This manuscript has been read by Naofumi Mori (@n_mori00), Associate Professor o
 
 [Elementary PDE Theory Ⅱ.pdf](https://github.com/user-attachments/files/31104940/Elementary.PDE.Theory.pdf)
 
+[2nd Elementary PDE Theory.pdf](https://github.com/user-attachments/files/30905178/2nd.Elementary.PDE.Theory.pdf)
+
+[∂ˉ u |Ω ＝ f |Ω.pdf](https://github.com/user-attachments/files/31046471/u.f.pdf)
+
 [Referee_Report_6.pdf](https://github.com/user-attachments/files/31091221/Referee_Report_6.pdf)
+
+[Referee_Report_7.pdf](https://github.com/user-attachments/files/31112465/Referee_Report_7.pdf)
 
 References:
 
