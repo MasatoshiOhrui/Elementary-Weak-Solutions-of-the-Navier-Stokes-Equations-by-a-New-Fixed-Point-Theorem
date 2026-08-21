@@ -1,6 +1,6 @@
 This is an application of functional analysis to the existence and smoothness of the Navier–Stokes equations using elementary weak solutions in Sobolev spaces. 
 
-We solve the problem in mathematics. The problems are not in physics, so we do not use any physics or assumptions-falsified mathematics, such as other papers. We use mathematics only. We can solve the problem by using an exactly and completely FALSIFIED resolution, where large initial values destroy the earth, because uniqueness does NOT hold, or SMALL initial values love your cup of coffee. There are no long or complicated culculations, or no theory of evolution equations.
+We solve the problem in mathematics. The problems are not in physics, so we do not use any physics or assumptions-falsified mathematics. We use mathematics only. We can solve the problem by using an exactly and completely FALSIFIED resolution, where large initial values destroy the earth, because uniqueness does NOT hold, or SMALL initial values love your cup of coffee. There are no long or complicated culculations, or no theory of evolution equations.
 
 A Solution of a non-linear differential equation F(u)＝0 is a fixed point u＝G(u). The resolutions such as other papers which can't interpret in words of fixed point theorems are falsified.
 
