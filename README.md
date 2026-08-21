@@ -24,7 +24,7 @@ Our Elementary PDE Theory also can be applied to non-linear heat equation, non-l
 
 This manuscript has been read by Naofumi Mori (@n_mori00), Associate Professor of Mathematical Sciences.
 
-[Elementary PDE Theory Ⅱ.pdf](https://github.com/user-attachments/files/31288408/Elementary.PDE.Theory.pdf)
+[Elementary PDE Theory Ⅱ.pdf](https://github.com/user-attachments/files/31288936/Elementary.PDE.Theory.pdf)
 
 [2nd Elementary PDE Theory.pdf](https://github.com/user-attachments/files/30905178/2nd.Elementary.PDE.Theory.pdf)
 
