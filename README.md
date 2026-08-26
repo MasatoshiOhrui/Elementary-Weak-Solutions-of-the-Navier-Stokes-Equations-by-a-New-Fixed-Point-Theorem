@@ -22,7 +22,7 @@ and motions by fluids itselves, so our solutions are physically suitable.
 
 Our Elementary PDE Theory also can be applied to non-linear heat equation, non-linear Laplace equation, non-linear wave equation, non-linear Schrödinger equation, compressible Navier-Stokes equations and complex Monge-Ampére equation.
 
-This manuscript has been read by Naofumi Mori (@n_mori00), Associate Professor of Mathematical Sciences. This paper will be our thesis of Open University of Japan.
+This manuscript has been read by Naofumi Mori (@n_mori00), Associate Professor of Mathematical Sciences. This paper will be our thesis of Open University of Japan. We have done mathematics like Hitoshi Kitada: he corrected our book more than 100 times (https://amzn.asia/d/08gdzZxT)
 
 [Elementary PDE Theory Ⅱ.pdf](https://github.com/user-attachments/files/31442562/Elementary.PDE.Theory.pdf)
 
