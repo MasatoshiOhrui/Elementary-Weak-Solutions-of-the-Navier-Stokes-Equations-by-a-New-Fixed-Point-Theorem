@@ -4,6 +4,8 @@ We solve the problem in mathematics. The problems are not in physics, so we do n
 
 A Solution of a non-linear differential equation F(u)＝0 is a fixed point u＝G(u). The resolutions such as other papers which can't interpret in words of fixed point theorems are falsified.
 
+We construct the solutions depend on external forces, do not depend on initial values. Our solutions are unique, smooth, analytic, time global for small initial values. The method is similar to the Banach fixed-point theorem, but we do not assume that the image of domain is contained into the domain itself.
+
 We solve
 
 ∂ₜ u －△u ＝Pf －P(uₙ・▽)uₙ,
