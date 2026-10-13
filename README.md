@@ -23,6 +23,8 @@ We have done mathematics like Hitoshi Kitada: he corrected our book more than 10
 
 [Referee_Report_27.pdf](https://github.com/user-attachments/files/33337857/Referee_Report_27.pdf)
 
+[31_QA_English.pdf](https://github.com/user-attachments/files/33376861/31_QA_English.pdf)
+
 [2nd Elementary PDE Theory.pdf](https://github.com/user-attachments/files/30905178/2nd.Elementary.PDE.Theory.pdf)
 
 [∂ˉ u |Ω ＝ f |Ω.pdf](https://github.com/user-attachments/files/31046471/u.f.pdf)
