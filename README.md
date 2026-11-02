@@ -2,7 +2,7 @@ We construct the solutions depend on external forces, not depend on initial valu
 
 We solve
 
-$${\partial_t u-\Delta u=Pf-P((u_n\cdot\nabla)u_n)}$$,
+$${\partial_t u-\Delta u=Pf-P((u_n\cdot\nabla)u_n),}$$
 $${\partial_t u-\Delta u=Pf-P((u\cdot\nabla)u)}$$
 
 in $${X=\bigcap_{m\ge 5, p=1, 2}W^{m, p}(Ω)}$$ (as a set). We construct $${u=\Phi[u]\in S}$$, where $${S}$$ is a closed subset of $${X}$$. By new fixed point theorem, existence of solutions holds even if $${\Phi[S]\subset S}$$ does not hold.
