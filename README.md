@@ -13,7 +13,7 @@ for any $${\varphi\in\mathcal D_\sigma(\Omega)}$$ because $${\langle PU, \varphi
 
 In our case, if $${f=0}$$ then $${a=0, u=0}$$. There are nonzero $${u}$$ even if $${f=0}$$ in cases of Fujita-Kato or Shibata theory, therefore elementary weak solutions are different from Fujita-Kato or Shibata solutions.
 
-Uniqueness follows without boundary conditions. Smoothness, the energy inequality also follow. Our solutions have extension to $${\R×\R^3}$$, and the motions of fluids occurs by an external force and motions by fluids itselves, so our solutions are physically suitable. 
+Uniqueness follows without boundary conditions. Smoothness, the energy inequality also follow. Our solutions have extension to $${\mathbb R×\mathbb R^3}$$, and the motions of fluids occurs by an external force and motions by fluids itselves, so our solutions are physically suitable. 
 
 Our Elementary PDE Theory also can be applied to non-linear heat equation, non-linear Laplace equation, non-linear wave equation, non-linear Schrödinger equation, compressible Navier-Stokes equations and complex Monge-Ampére equation.
 
