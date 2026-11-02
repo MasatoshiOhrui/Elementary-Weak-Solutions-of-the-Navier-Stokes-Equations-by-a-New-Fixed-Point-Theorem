@@ -11,6 +11,8 @@ Our solutions are weak solution:
 〈∂ₜ u －△u, φ〉 ＝〈f －▽p－(u・▽)u, φ〉
 for any φ∈D_σ(Ω) (thus ▽p＝0 in D'_σ(Ω)), because〈PU, φ〉＝〈U, φ〉for any φ∈D_σ(Ω),〈div(u), φ〉＝0 for any φ∈D(Ω).
 
+In our case, if $${f=0}$$ then $${a=0, u=0}$$. There are nonzero $${u}$$ even if $${f=0}$$ in cases of Fujita-Kato or Shibata theory, therefore elementary weak solutions are different from Fujita-Kato or Shibata solutions.
+
 Uniqueness follows without boundary conditions. Smoothness, the energy inequality also follow. Our solutions have extension to R×R^3, and the motions of fluids occurs by an external force and motions by fluids itselves, so our solutions are physically suitable. 
 
 Our Elementary PDE Theory also can be applied to non-linear heat equation, non-linear Laplace equation, non-linear wave equation, non-linear Schrödinger equation, compressible Navier-Stokes equations and complex Monge-Ampére equation.
