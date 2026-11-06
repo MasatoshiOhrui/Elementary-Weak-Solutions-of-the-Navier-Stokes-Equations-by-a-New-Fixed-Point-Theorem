@@ -17,7 +17,7 @@ Uniqueness follows without boundary conditions. Smoothness, the energy inequalit
 
 Our Elementary PDE Theory also can be applied to non-linear heat equation, non-linear Laplace equation, non-linear wave equation, non-linear Schrödinger equation, compressible Navier-Stokes equations and complex Monge-Ampére equation.
 
-Japanese people use X to study hi-level mathematics, and this manuscript has been read by Naofumi Mori (@n_mori00), Associate Professor of Mathematical Sciences at okyo University of Marine Science and Technology. This paper is our thesis of Open University of Japan.
+Japanese people use X to study hi-level mathematics, and this manuscript has been read by Naofumi Mori (@n_mori00), Associate Professor of Mathematical Sciences at Tokyo University of Marine Science and Technology. This paper is our thesis of Open University of Japan.
 
 We have done mathematics like Hitoshi Kitada: he corrected our book more than 100 times (https://amzn.asia/d/08gdzZxT).
 
