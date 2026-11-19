@@ -23,9 +23,7 @@ We have done mathematics like Hitoshi Kitada: he corrected our book more than 10
 
 [Elementary PDE Theory.pdf](https://github.com/user-attachments/files/34875450/Elementary.PDE.Theory.pdf)
 
-[Referee Report 34.pdf](https://github.com/user-attachments/files/34233258/Referee.Report.34.pdf)
-
-[31_QA_English.pdf](https://github.com/user-attachments/files/33376861/31_QA_English.pdf)
+[Referee Report 35.pdf](https://github.com/user-attachments/files/35070124/Referee.Report.35.pdf)
 
 [2nd Elementary PDE Theory.pdf](https://github.com/user-attachments/files/30905178/2nd.Elementary.PDE.Theory.pdf)
 
