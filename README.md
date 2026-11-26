@@ -21,7 +21,7 @@ Japanese people use X to study hi-level mathematics, and this manuscript has bee
 
 We have done mathematics like Hitoshi Kitada: he corrected our book more than 100 times (https://amzn.asia/d/08gdzZxT).
 
-[Elementary PDE Theory.pdf](https://github.com/user-attachments/files/35330484/Elementary.PDE.Theory.pdf)
+[Elementary PDE Theory comp.pdf](https://github.com/user-attachments/files/35441908/Elementary.PDE.Theory.comp.pdf)
 
 [Referee Report.pdf](https://github.com/user-attachments/files/35333172/Referee.Report.pdf)
 
